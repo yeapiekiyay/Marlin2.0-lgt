@@ -40,7 +40,7 @@
 //
 // Servos
 //
-#define SERVO0_PIN                            7  // D7
+#define SERVO0_PIN                            46  // AUX3-6
 #define SERVO1_PIN                            47  // AUX3-5
 #define SERVO2_PIN                            48  // AUX3-4
 #define SERVO3_PIN                            49  // AUX3-3

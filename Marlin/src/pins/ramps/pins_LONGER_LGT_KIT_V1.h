@@ -28,6 +28,8 @@
 
 #define BOARD_INFO_NAME "LONGER LGT KIT V1.0"
 
+#define LK5_PRO
+
 //
 // Servos
 //

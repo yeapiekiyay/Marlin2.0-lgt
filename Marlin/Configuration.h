@@ -104,7 +104,7 @@
   #define FW_BL_TAG ""
 #endif
 
-#define SHORT_BUILD_VERSION       "0.4.0" FW_TEST_TAG "-Marlin2.x" FW_BL_TAG
+#define SHORT_BUILD_VERSION       "YEAPLE-CFW-0.4.0" FW_TEST_TAG "-Marlin2.x" FW_BL_TAG
 #define DEFAULT_MACHINE_NAME      "LONGER 3D Printer"   // override by  CUSTOM_MACHINE_NAME if any
 #define SOURCE_CODE_URL           "https://github.com/LONGER3D"
 #define STRING_DISTRIBUTION_DATE  "2021-12-28"
@@ -1089,7 +1089,7 @@
  *
  * Specify a Probe position as { X, Y, Z }
  */
-#define NOZZLE_TO_PROBE_OFFSET  { -36, -10, 0 }
+#define NOZZLE_TO_PROBE_OFFSET  { -35.13, -12.61, -2.30 }
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
